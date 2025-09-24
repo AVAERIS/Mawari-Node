@@ -36,7 +36,7 @@ Before delegating, make sure you have tokens and NFTs:
   👉 [Mint NFT](https://mint.mawari.network)
 
 - **Fund your burner wallet (shown after running the script)**  
-  Send at least **0.1 testnet tokens** to your burner wallet so it has gas for delegation.
+  Send at least **1 testnet tokens** to your burner wallet so it has gas for delegation.
 
 ---
 
