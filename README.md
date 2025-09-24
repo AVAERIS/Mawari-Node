@@ -52,4 +52,21 @@ Example output after running the script:
 ### 🔥 Delegate 
 Use this burner wallet address in the Mawari Guardian [Dashboard](https://app.testnet.mawari.net) to delegate your NFT.
 
+### 🔐 Burner Wallet Private Key
+
+The private key of your burner wallet is stored locally on your server.
+You can find it inside the mawari folder, in the file:
+
+```
+mawari/flohive-cache.json
+```
+
+⚠️ Important:
+
+Do not share this file with anyone.
+
+Backup the file securely if you plan to migrate or restore your node.
+
+Anyone with access to flohive-cache.json can control your burner wallet.
+
 
