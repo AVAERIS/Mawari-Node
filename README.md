@@ -1,18 +1,18 @@
-# 🚀 Mawari Guardian Node Setup
+#  Mawari Guardian Node Setup
 
 This repository provides a single script to install Docker (if needed) and run a **Mawari Guardian Node** in detached mode.  
 It will automatically display your **burner wallet address** so you can delegate your Guardian NFT.
 
 ---
 
-### 📦 Requirements
+###  Requirements
 - Ubuntu 20.04+ (or Debian-based Linux)
 - Bash
 - A Guardian NFT in your **OWNER wallet**
 
 ---
 
-### ⚡ Quick Start
+###  Quick Start
 
 Run this command in your terminal :
 
@@ -25,7 +25,7 @@ Once the node starts, the script will print your **burner wallet address**.
 
 ---
 
-### 💧 Claim Testnet Tokens
+###  Claim Testnet Tokens
 
 Before delegating, make sure you have tokens and NFTs:
 
@@ -40,7 +40,7 @@ Before delegating, make sure you have tokens and NFTs:
 
 ---
 
-### 🔑 Burner Wallet
+###  Burner Wallet
 
 Example output after running the script:
 
@@ -49,10 +49,10 @@ Example output after running the script:
 👉 0xDc57529b066B21E6b296b9156CFc3496d8cddFDB
 ```
 
-### 🔥 Delegate 
+###  Delegate 
 Use this burner wallet address in the Mawari Guardian [Dashboard](https://app.testnet.mawari.net) to delegate your NFT.
 
-### 🔐 Burner Wallet Private Key
+###  Burner Wallet Private Key
 
 The private key of your burner wallet is stored locally on your server.
 You can find it inside the mawari folder, in the file:
