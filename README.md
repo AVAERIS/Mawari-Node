@@ -30,7 +30,7 @@ Once the node starts, the script will print your **burner wallet address**.
 Before delegating, make sure you have tokens and NFTs:
 
 - **Claim Mawari testnet tokens**  
-  👉 [Faucet](https://faucet.mawari.network)
+  👉 [Faucet](https://hub.testnet.mawari.net/)
 
 - **Mint Guardian NFTs (maximum 3 per wallet)**  
   👉 [Mint NFT](https://mint.mawari.network)
